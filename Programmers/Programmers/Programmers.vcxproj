@@ -149,6 +149,7 @@
     <ClCompile Include="Networks.cpp" />
     <ClCompile Include="TargetNumber.cpp" />
     <ClCompile Include="TranslateWord.cpp" />
+    <ClCompile Include="FailTravelPath.cpp" />
     <ClCompile Include="TravelPath.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
