@@ -50,7 +50,7 @@ int main(void) {
 	//vector<vector<string>> tickets = { { "ICN", "SFO" } };
 
 	//vector<vector<string>> tickets = { { "SFO", "ICN" }, {"ICN", "SFO" } };
-
+	/*
 	vector<string> temp = solution(tickets);
 
 	for (int i = 0; i < temp.size(); i++)

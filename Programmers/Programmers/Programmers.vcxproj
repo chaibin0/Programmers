@@ -146,11 +146,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="disk_controller.cpp" />
+    <ClCompile Include="disk_controller1.cpp" />
+    <ClCompile Include="double_priority_queue.cpp" />
+    <ClCompile Include="joystick.cpp" />
+    <ClCompile Include="MakeTheHighestNumber.cpp" />
+    <ClCompile Include="morespicy.cpp" />
     <ClCompile Include="Networks.cpp" />
+    <ClCompile Include="failramenfactory.cpp" />
     <ClCompile Include="TargetNumber.cpp" />
     <ClCompile Include="TranslateWord.cpp" />
     <ClCompile Include="FailTravelPath.cpp" />
     <ClCompile Include="TravelPath.cpp" />
+    <ClCompile Include="remenfactory.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

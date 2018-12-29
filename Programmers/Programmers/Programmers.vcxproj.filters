@@ -13,6 +13,24 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\TravelPath">
+      <UniqueIdentifier>{75c565ec-e003-4dbd-85d0-86db868ce027}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\joystick">
+      <UniqueIdentifier>{597dc42f-011f-464c-892a-4135562a3244}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Disk Controller">
+      <UniqueIdentifier>{098a6369-24b1-4d1d-b991-f60305acea3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Ramen Factory">
+      <UniqueIdentifier>{7dd63e0b-68ea-4ce3-985f-8c99d9cee250}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\double priority_queue">
+      <UniqueIdentifier>{f53640a1-ea6c-4de3-b47b-e15e1963876c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\morespicy">
+      <UniqueIdentifier>{dd553674-06d4-47f7-b1b8-5c624894e417}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="TargetNumber.cpp">
@@ -24,11 +42,35 @@
     <ClCompile Include="TranslateWord.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="FailTravelPath.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="TravelPath.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MakeTheHighestNumber.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FailTravelPath.cpp">
+      <Filter>소스 파일\TravelPath</Filter>
+    </ClCompile>
+    <ClCompile Include="joystick.cpp">
+      <Filter>소스 파일\joystick</Filter>
+    </ClCompile>
+    <ClCompile Include="failramenfactory.cpp">
+      <Filter>소스 파일\Ramen Factory</Filter>
+    </ClCompile>
+    <ClCompile Include="remenfactory.cpp">
+      <Filter>소스 파일\Ramen Factory</Filter>
+    </ClCompile>
+    <ClCompile Include="disk_controller.cpp">
+      <Filter>소스 파일\Disk Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="double_priority_queue.cpp">
+      <Filter>소스 파일\double priority_queue</Filter>
+    </ClCompile>
+    <ClCompile Include="disk_controller1.cpp">
+      <Filter>소스 파일\Disk Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="morespicy.cpp">
+      <Filter>소스 파일\morespicy</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
