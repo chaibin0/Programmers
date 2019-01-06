@@ -1,3 +1,4 @@
+/*
 #include <string>
 #include <vector>
 #include <iostream>
@@ -49,3 +50,6 @@ int main(void) {
 	string name = "JAZ";
 	cout << solution(name) << endl;
 }
+*/
+
+

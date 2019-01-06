@@ -9,14 +9,13 @@ vector<int> solution(vector<string> operations) {
 	vector<int> answer;
 	deque<int> que;
 	string temp;
-
+	
 	for (int i = 0; i < operations.size(); i++) {
 		sort(que.begin(), que.end());
 
 		if (operations[i][0] == 'I') {
 			temp = operations[i].substr(2, string::npos);
 			int a = stoi(temp);
-		//	if(find(que.begin(),que.end(),a)!=que.end())
 			que.push_back(a);
 		}
 		else if (operations[i][0] == 'D') {

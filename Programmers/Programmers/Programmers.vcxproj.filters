@@ -31,6 +31,45 @@
     <Filter Include="소스 파일\morespicy">
       <UniqueIdentifier>{dd553674-06d4-47f7-b1b8-5c624894e417}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\make Big number">
+      <UniqueIdentifier>{148360c5-e3bd-47d6-bddb-358b4ac5353d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MakeTheHighestNumber">
+      <UniqueIdentifier>{1e7fe154-4dbd-4e12-9bfd-60028a8cd6ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\tile decoratation">
+      <UniqueIdentifier>{0d0f98b8-c2d1-45ac-b2a8-37f9354b0cc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Integer Triangle">
+      <UniqueIdentifier>{b57cf64c-a774-4d8f-999d-86b6209e978b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\school paths">
+      <UniqueIdentifier>{8b809012-81b6-4761-8bbf-5acef1ec5aee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\rescue boat">
+      <UniqueIdentifier>{c09ad95d-c325-4573-a2f7-4eebbc2df9e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\phone list">
+      <UniqueIdentifier>{2b445e81-c0b1-4e3d-9cfd-97f8b2aed409}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\camouflage">
+      <UniqueIdentifier>{c10f9de4-8e53-4af7-906f-7c516ce17fe2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2842839%29find prime number">
+      <UniqueIdentifier>{d58923e7-9333-4e7c-9535-60b036ffa35f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2842579%29best album">
+      <UniqueIdentifier>{0a53691a-e033-4ead-8712-8f8d7f7736ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2842841%29number base ball">
+      <UniqueIdentifier>{27f1eaf0-2161-4d5d-be0a-e00911188273}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2842842%29capet">
+      <UniqueIdentifier>{ded0d3c8-e71b-4b02-888d-d13e99b3118a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2842884%29CCTV">
+      <UniqueIdentifier>{af95b314-e32f-48ee-888f-934aac84cb54}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="TargetNumber.cpp">
@@ -43,9 +82,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="TravelPath.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="MakeTheHighestNumber.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="FailTravelPath.cpp">
@@ -72,5 +108,55 @@
     <ClCompile Include="morespicy.cpp">
       <Filter>소스 파일\morespicy</Filter>
     </ClCompile>
+    <ClCompile Include="make_bignumber.cpp">
+      <Filter>소스 파일\make Big number</Filter>
+    </ClCompile>
+    <ClCompile Include="MakeTheHighestNumber.cpp">
+      <Filter>소스 파일\MakeTheHighestNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="rescure_boat.cpp">
+      <Filter>소스 파일\rescue boat</Filter>
+    </ClCompile>
+    <ClCompile Include="rescue_boat1.cpp">
+      <Filter>소스 파일\rescue boat</Filter>
+    </ClCompile>
+    <ClCompile Include="rescue_boat2.cpp">
+      <Filter>소스 파일\rescue boat</Filter>
+    </ClCompile>
+    <ClCompile Include="tile_decoration.cpp">
+      <Filter>소스 파일\tile decoratation</Filter>
+    </ClCompile>
+    <ClCompile Include="Integer_triangle.cpp">
+      <Filter>소스 파일\Integer Triangle</Filter>
+    </ClCompile>
+    <ClCompile Include="school_paths.cpp">
+      <Filter>소스 파일\school paths</Filter>
+    </ClCompile>
+    <ClCompile Include="phone_list.cpp">
+      <Filter>소스 파일\phone list</Filter>
+    </ClCompile>
+    <ClCompile Include="camouflage.cpp">
+      <Filter>소스 파일\camouflage</Filter>
+    </ClCompile>
+    <ClCompile Include="prime_number.cpp">
+      <Filter>소스 파일\%2842839%29find prime number</Filter>
+    </ClCompile>
+    <ClCompile Include="best_album.cpp">
+      <Filter>소스 파일\%2842579%29best album</Filter>
+    </ClCompile>
+    <ClCompile Include="number_base_ball.cpp">
+      <Filter>소스 파일\%2842841%29number base ball</Filter>
+    </ClCompile>
+    <ClCompile Include="capet.cpp">
+      <Filter>소스 파일\%2842842%29capet</Filter>
+    </ClCompile>
+    <ClCompile Include="cctv.cpp">
+      <Filter>소스 파일\%2842884%29CCTV</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

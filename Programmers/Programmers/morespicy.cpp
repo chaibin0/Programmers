@@ -10,6 +10,7 @@ int solution(vector<int> scoville, int K) {
 	int answer = 0;
 	int first,second;
 	priority_queue<int,vector<int>,less<int>> temp;
+	
 	for(int i=0;i<scoville.size();i++)
 		temp.push(scoville[i]);
 	

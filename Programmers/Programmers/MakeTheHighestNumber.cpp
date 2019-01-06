@@ -1,3 +1,4 @@
+/*
 #include <string>
 #include <vector>
 #include <cmath>
@@ -22,7 +23,7 @@ string solution(string number, int k) {
 
 	return answer;
 }
-/*
+
 int main(void) {
 	string number = "1924";
 }

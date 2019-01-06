@@ -1,3 +1,4 @@
+/*
 #include <string>
 #include <vector>
 #include <iostream>
@@ -6,13 +7,11 @@
 #include <algorithm>
 using namespace std;
 
-
 struct Pred {
 	bool operator()(vector<int> a, vector<int> b) {
 		return a[1] > b[1];
 	}
 };
-
 
 bool Pred1(vector<int> a, vector<int> b) {
 	return a[0] < b[0];
@@ -58,7 +57,7 @@ int solution(vector<vector<int>> jobs) {
 	answer = total / jobs.size();
 	return answer;
 }
-/*
+
 int main(void) {
 //vector<vector<int>> jobs = { {0, 9},{0, 4},{0, 5},{0, 7},{0, 3} };
 vector<vector<int>> jobs = { {0,3},{2,6},{ 1,9 } };

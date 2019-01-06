@@ -146,19 +146,36 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="best_album.cpp" />
+    <ClCompile Include="camouflage.cpp" />
+    <ClCompile Include="capet.cpp" />
+    <ClCompile Include="cctv.cpp" />
     <ClCompile Include="disk_controller.cpp" />
     <ClCompile Include="disk_controller1.cpp" />
     <ClCompile Include="double_priority_queue.cpp" />
+    <ClCompile Include="Integer_triangle.cpp" />
     <ClCompile Include="joystick.cpp" />
     <ClCompile Include="MakeTheHighestNumber.cpp" />
+    <ClCompile Include="make_bignumber.cpp" />
     <ClCompile Include="morespicy.cpp" />
     <ClCompile Include="Networks.cpp" />
     <ClCompile Include="failramenfactory.cpp" />
+    <ClCompile Include="number_base_ball.cpp" />
+    <ClCompile Include="phone_list.cpp" />
+    <ClCompile Include="prime_number.cpp" />
+    <ClCompile Include="rescue_boat1.cpp" />
+    <ClCompile Include="rescue_boat2.cpp" />
+    <ClCompile Include="rescure_boat.cpp" />
+    <ClCompile Include="school_paths.cpp" />
     <ClCompile Include="TargetNumber.cpp" />
+    <ClCompile Include="tile_decoration.cpp" />
     <ClCompile Include="TranslateWord.cpp" />
     <ClCompile Include="FailTravelPath.cpp" />
     <ClCompile Include="TravelPath.cpp" />
     <ClCompile Include="remenfactory.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

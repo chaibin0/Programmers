@@ -11,7 +11,7 @@ priority_queue<int, vector<int>,less<int>> temp;
 int solution(int stock, vector<int> dates, vector<int> supplies, int k) {
 	int answer = 0;
 	int j = 0;
-	for (int i = 0; i<k; i++) {
+	for (int i = 0; i < k; i++) {
 		if (dates[j] == i) {
 			temp.push(supplies[j]);
 			if (j != supplies.size() - 1)
@@ -27,7 +27,11 @@ int solution(int stock, vector<int> dates, vector<int> supplies, int k) {
 
 	}
 	return answer;
+
+
+
 }
+
 /*
 int main(void) {
 int stock = 4;
