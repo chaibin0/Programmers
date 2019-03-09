@@ -1,3 +1,4 @@
+/*
 #include <string>
 #include <vector>
 #include <algorithm>
@@ -44,7 +45,7 @@ bool checkNumber(int i,string numbers) {
 
 	return true;
 }
-/*
+
 int main(void) {
 	cout<<solution("011")<<endl;
 }

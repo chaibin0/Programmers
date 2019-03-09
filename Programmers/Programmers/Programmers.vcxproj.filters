@@ -70,6 +70,93 @@
     <Filter Include="소스 파일\%2842884%29CCTV">
       <UniqueIdentifier>{af95b314-e32f-48ee-888f-934aac84cb54}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\%2842861%29connect island">
+      <UniqueIdentifier>{d674717b-514d-476e-8fa4-80c94b3a8de9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2842886%29scale">
+      <UniqueIdentifier>{40330c50-b8e8-4115-843a-7a3bc7dd6a0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2842897%29stealing">
+      <UniqueIdentifier>{3001c055-5107-4595-b40a-d4d11e4fe3d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2842896%29card game">
+      <UniqueIdentifier>{cfe54615-e47c-489a-b37c-0142380fac13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2842889%29Seoul_To_Gyeongsan">
+      <UniqueIdentifier>{dd5141d2-910f-40d7-9ac4-6276dea998f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2843237%29budget">
+      <UniqueIdentifier>{ed6961a8-d3a5-47bc-85cd-985f92912e13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2849189%29farthest node">
+      <UniqueIdentifier>{7c2e57c3-a2f7-47cc-aeb4-a6e753b459d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2843238%29immigration">
+      <UniqueIdentifier>{4ce404fe-bef5-4dfb-a101-3b87c78440a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2849191%29rank">
+      <UniqueIdentifier>{21fd66ab-5843-4a63-bc8c-0bb0c382032f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2843236%29Stepping bridge">
+      <UniqueIdentifier>{204472cf-588b-4851-acc1-469491c64303}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2817681%29secret map">
+      <UniqueIdentifier>{48d8f3eb-e636-4d7d-b330-bd1171e8b96d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2817680%29chche">
+      <UniqueIdentifier>{62bd8ba1-ca93-49cd-9c7e-aa90e5c6601b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2817682%29dart game">
+      <UniqueIdentifier>{ea8e7da5-7ccd-47ea-8fb1-0e9c13cca82f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2817679%29friend4block">
+      <UniqueIdentifier>{c04c4c1c-cf0a-4c16-b80c-19138959b36b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2817677%29new clustering">
+      <UniqueIdentifier>{27b523f9-b56e-4473-95b3-9aa9b2bbfc48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2817678%29셔틀버스">
+      <UniqueIdentifier>{cdf20842-cc72-4053-ad99-a064074cbf27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2817676%29treffic">
+      <UniqueIdentifier>{089ddf64-69a2-4fc8-9a5a-8d5937e03b29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\how many room">
+      <UniqueIdentifier>{54d27af7-cefe-4fb8-8aa1-0972db56cc4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2849188%29remove_cycle">
+      <UniqueIdentifier>{ca4daf86-3861-452b-acf2-d0f042675952}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2817687%29notaion game">
+      <UniqueIdentifier>{b4c8b748-addc-4519-9dc0-ca4f0a9ee175}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2817684%29confusion">
+      <UniqueIdentifier>{af38d973-ed78-40b6-8b93-2a41d13d99f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2817685%29autocomplate">
+      <UniqueIdentifier>{9546984f-8075-484d-b8cc-78e4b5024ce6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2817686%29sort file name">
+      <UniqueIdentifier>{94e35512-c395-4b6e-a9c5-5479c90b4dfb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2817683%29방금 그곡">
+      <UniqueIdentifier>{4c6f57bd-7715-4e15-bf34-ff790cdf75ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2842888%29오픈채팅방">
+      <UniqueIdentifier>{451858ff-a235-423b-906f-bef8680c79f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2842889%29실패율">
+      <UniqueIdentifier>{d6954c28-56ea-4e12-b0ec-55dd6ae7743d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2842890%29후보키">
+      <UniqueIdentifier>{9a4be2e2-b5bd-4b33-a876-996ac0197dc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2842891%29무지의 먹방 라이브">
+      <UniqueIdentifier>{36796a81-d013-4ab7-b0a8-568e8751591c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\%2842894%29블록게임">
+      <UniqueIdentifier>{15a171eb-18fd-4d12-9946-49228f26fafb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="TargetNumber.cpp">
@@ -152,6 +239,144 @@
     </ClCompile>
     <ClCompile Include="cctv.cpp">
       <Filter>소스 파일\%2842884%29CCTV</Filter>
+    </ClCompile>
+    <ClCompile Include="fail_scale.cpp">
+      <Filter>소스 파일\%2842886%29scale</Filter>
+    </ClCompile>
+    <ClCompile Include="scale.cpp">
+      <Filter>소스 파일\%2842886%29scale</Filter>
+    </ClCompile>
+    <ClCompile Include="fail_connect_island1.cpp">
+      <Filter>소스 파일\%2842861%29connect island</Filter>
+    </ClCompile>
+    <ClCompile Include="fail_connect_island2.cpp">
+      <Filter>소스 파일\%2842861%29connect island</Filter>
+    </ClCompile>
+    <ClCompile Include="connect_island3.cpp">
+      <Filter>소스 파일\%2842861%29connect island</Filter>
+    </ClCompile>
+    <ClCompile Include="scale2.cpp">
+      <Filter>소스 파일\%2842886%29scale</Filter>
+    </ClCompile>
+    <ClCompile Include="stealing.cpp">
+      <Filter>소스 파일\%2842897%29stealing</Filter>
+    </ClCompile>
+    <ClCompile Include="failcard_game.cpp">
+      <Filter>소스 파일\%2842896%29card game</Filter>
+    </ClCompile>
+    <ClCompile Include="failcard_game1.cpp">
+      <Filter>소스 파일\%2842896%29card game</Filter>
+    </ClCompile>
+    <ClCompile Include="card_game.cpp">
+      <Filter>소스 파일\%2842896%29card game</Filter>
+    </ClCompile>
+    <ClCompile Include="seoul.cpp">
+      <Filter>소스 파일\%2842889%29Seoul_To_Gyeongsan</Filter>
+    </ClCompile>
+    <ClCompile Include="budget.cpp">
+      <Filter>소스 파일\%2843237%29budget</Filter>
+    </ClCompile>
+    <ClCompile Include="seoul2.cpp">
+      <Filter>소스 파일\%2842889%29Seoul_To_Gyeongsan</Filter>
+    </ClCompile>
+    <ClCompile Include="dpcardgame.cpp">
+      <Filter>소스 파일\%2842896%29card game</Filter>
+    </ClCompile>
+    <ClCompile Include="node.cpp">
+      <Filter>소스 파일\%2849189%29farthest node</Filter>
+    </ClCompile>
+    <ClCompile Include="immigration.cpp">
+      <Filter>소스 파일\%2843238%29immigration</Filter>
+    </ClCompile>
+    <ClCompile Include="rank.cpp">
+      <Filter>소스 파일\%2849191%29rank</Filter>
+    </ClCompile>
+    <ClCompile Include="stepping_bridge.cpp">
+      <Filter>소스 파일\%2843236%29Stepping bridge</Filter>
+    </ClCompile>
+    <ClCompile Include="stepping_bridge1.cpp">
+      <Filter>소스 파일\%2843236%29Stepping bridge</Filter>
+    </ClCompile>
+    <ClCompile Include="rank1.cpp">
+      <Filter>소스 파일\%2849191%29rank</Filter>
+    </ClCompile>
+    <ClCompile Include="rank2.cpp">
+      <Filter>소스 파일\%2849191%29rank</Filter>
+    </ClCompile>
+    <ClCompile Include="secret_map.cpp">
+      <Filter>소스 파일\%2817681%29secret map</Filter>
+    </ClCompile>
+    <ClCompile Include="chche.cpp">
+      <Filter>소스 파일\%2817680%29chche</Filter>
+    </ClCompile>
+    <ClCompile Include="dart_game.cpp">
+      <Filter>소스 파일\%2817682%29dart game</Filter>
+    </ClCompile>
+    <ClCompile Include="friend4block.cpp">
+      <Filter>소스 파일\%2817679%29friend4block</Filter>
+    </ClCompile>
+    <ClCompile Include="news_clustering.cpp">
+      <Filter>소스 파일\%2817677%29new clustering</Filter>
+    </ClCompile>
+    <ClCompile Include="shuttle_bus.cpp">
+      <Filter>소스 파일\%2817678%29셔틀버스</Filter>
+    </ClCompile>
+    <ClCompile Include="treffic.cpp">
+      <Filter>소스 파일\%2817676%29treffic</Filter>
+    </ClCompile>
+    <ClCompile Include="treffic1.cpp">
+      <Filter>소스 파일\%2817676%29treffic</Filter>
+    </ClCompile>
+    <ClCompile Include="room.cpp">
+      <Filter>소스 파일\how many room</Filter>
+    </ClCompile>
+    <ClCompile Include="remove_cycle.cpp">
+      <Filter>소스 파일\%2849188%29remove_cycle</Filter>
+    </ClCompile>
+    <ClCompile Include="N_notation.cpp">
+      <Filter>소스 파일\%2817687%29notaion game</Filter>
+    </ClCompile>
+    <ClCompile Include="confusion.cpp">
+      <Filter>소스 파일\%2817684%29confusion</Filter>
+    </ClCompile>
+    <ClCompile Include="autocomplate.cpp">
+      <Filter>소스 파일\%2817685%29autocomplate</Filter>
+    </ClCompile>
+    <ClCompile Include="autocomplate1.cpp">
+      <Filter>소스 파일\%2817685%29autocomplate</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_file_name.cpp">
+      <Filter>소스 파일\%2817686%29sort file name</Filter>
+    </ClCompile>
+    <ClCompile Include="remove_cycle1.cpp">
+      <Filter>소스 파일\%2849188%29remove_cycle</Filter>
+    </ClCompile>
+    <ClCompile Include="song_at_the_moment.cpp">
+      <Filter>소스 파일\%2817683%29방금 그곡</Filter>
+    </ClCompile>
+    <ClCompile Include="open_chatting.cpp">
+      <Filter>소스 파일\%2842888%29오픈채팅방</Filter>
+    </ClCompile>
+    <ClCompile Include="fail.cpp">
+      <Filter>소스 파일\%2842889%29실패율</Filter>
+    </ClCompile>
+    <ClCompile Include="candidate_key.cpp">
+      <Filter>소스 파일\%2842890%29후보키</Filter>
+    </ClCompile>
+    <ClCompile Include="mukbang_live.cpp">
+      <Filter>소스 파일\%2842891%29무지의 먹방 라이브</Filter>
+    </ClCompile>
+    <ClCompile Include="mukbang_live1.cpp">
+      <Filter>소스 파일\%2842891%29무지의 먹방 라이브</Filter>
+    </ClCompile>
+    <ClCompile Include="find_path.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="block_game.cpp">
+      <Filter>소스 파일\%2842894%29블록게임</Filter>
+    </ClCompile>
+    <ClCompile Include="block_game_test.cpp">
+      <Filter>소스 파일\%2842894%29블록게임</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

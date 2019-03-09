@@ -1,5 +1,5 @@
 /* 2018-11-17 프로그래머스 네트워크 */
-
+/*
 #include <vector>
 #include <string>
 #include <iostream>
@@ -38,7 +38,7 @@ void checknetwork(vector<vector<int>> computers, vector<bool> &people, int num) 
 	}
 }
 
-/*
+
 int main(void) {
 	//vector<vector<int>> computers = { {1,1,0},{1,1,0},{0,0,1} };
 	vector<vector<int>> computers = { {1,1,0},{1,1,1},{0,1,1} };
